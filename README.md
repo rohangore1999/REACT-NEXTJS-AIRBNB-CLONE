@@ -1,3 +1,12 @@
+REACT-NEXTJS-AIRBNB-CLONE created using NextJS used both Server Side Rendering(SSR), Static Side Generation(SSG), Tailwind CSS ,React Date Picker, Mapbox.
+
+DEPLOYED ON VERCEL ~ https://react-nextjs-airbnb-clone-nu.vercel.app/
+
+
+------------------------------------------------------------------------------------------------
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
