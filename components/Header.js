@@ -64,7 +64,7 @@ function Header({ placeholder }) {
             {/* relative because any thing under that container will be relative, if the component is small then child components will also be small */}
             <div onClick={() => router.push('/')} className='relative flex items-center h-10 hover:cursor-pointer my-auto'>
                 {/* to convert normal img to WEB-P */}
-                <Image layout='fill' objectFit='contain' objectPosition={'left'} src={'https://links.papareact.com/qd3'} />
+                <Image layout='fill' alt="" objectFit='contain' objectPosition={'left'} src={'https://links.papareact.com/qd3'} />
             </div>
 
 

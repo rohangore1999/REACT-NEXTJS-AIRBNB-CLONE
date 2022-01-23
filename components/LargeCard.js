@@ -7,7 +7,7 @@ function LargeCard({ img, title, description, buttonText }) {
             {/* we are making section also relative as we have text which we want to make absolute to place on top of the image */}
 
             <div className='relative h-96 min-w-[300px]'>
-                <Image className='rounded-2xl' src={img} layout='fill' objectFit='cover' />
+                <Image alt="" className='rounded-2xl' src={img} layout='fill' objectFit='cover' />
             </div>
 
 
